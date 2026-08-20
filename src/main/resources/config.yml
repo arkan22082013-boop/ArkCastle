@@ -1,0 +1,22 @@
+# ArkCastle Config
+rarities:
+  - weight: 50.0
+    material: GRAY_SHULKER_BOX
+    durability: 5
+    lootContent:
+      mean: 4.0
+      standardDeviation: 3.0
+      items:
+        - weight: 50.0
+          material: DIAMOND
+          minAmount: 8
+          maxAmount: 32
+        - weight: 100.0
+          material: IRON_INGOT
+          minAmount: 24
+          maxAmount: 54
+
+spawn-settings:
+  base-count: 4
+  max-count: 8
+  spawn-interval-seconds: 600

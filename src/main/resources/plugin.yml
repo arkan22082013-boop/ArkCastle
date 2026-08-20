@@ -1,0 +1,11 @@
+name: ArkCastle
+version: 1.0.0
+main: ru.kforbro.arkcastle.ArkCastle
+api-version: 1.20
+author: kforbro
+commands:
+  arkcastle:
+    description: Main command for ArkCastle
+permissions:
+  arkcastle.admin:
+    default: op

@@ -1,0 +1,15 @@
+ru\kforbro\arkcastle\listeners\PlayerListener.class
+ru\kforbro\arkcastle\Utils\WeighedProbability.class
+ru\kforbro\arkcastle\commands\ArkCastleCommand.class
+ru\kforbro\arkcastle\config\Config$ShulkerRarity.class
+ru\kforbro\arkcastle\config\CustomItem.class
+ru\kforbro\arkcastle\config\Config.class
+ru\kforbro\arkcastle\Utils\Colorize.class
+ru\kforbro\arkcastle\config\Config$LootEntry.class
+ru\kforbro\arkcastle\config\Storage.class
+ru\kforbro\arkcastle\ArkCastle.class
+ru\kforbro\arkcastle\Utils\TimeUtils.class
+ru\kforbro\arkcastle\config\Config$SpawnSettings.class
+ru\kforbro\arkcastle\shulkers\ShulkerBox.class
+ru\kforbro\arkcastle\config\Config$LootContent.class
+ru\kforbro\arkcastle\config\ConfigManager.class
